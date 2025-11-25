@@ -5,6 +5,17 @@ A full-stack movie discovery platform built using **Spring Boot**, **React**, an
 Search for movies, explore detailed descriptions and save your favorites—all inside a clean, modern, responsive UI.
 
 ---
+## Preview
+### Home, Search Bar and Favourite 
+<img width="1837" height="786" alt="Screenshot 2025-11-25 164501" src="https://github.com/user-attachments/assets/0e50d756-ed21-4e71-baa1-6e8d5cac09f8" />
+### Search Result
+<img width="1828" height="931" alt="Screenshot 2025-11-25 164545" src="https://github.com/user-attachments/assets/e58855d8-fd45-48a7-a788-2ff2cc2f7217" />
+### Single Content Result
+<img width="902" height="778" alt="Screenshot 2025-11-25 164618" src="https://github.com/user-attachments/assets/b4fd53c0-5c23-474f-aaa5-b5301979f259" />
+### Add to favourites
+<img width="1082" height="767" alt="Screenshot 2025-11-25 164645" src="https://github.com/user-attachments/assets/60558a6b-01c1-4c70-a5cd-e12717f560bc" />
+### Footer
+<img width="1895" height="425" alt="Screenshot 2025-11-25 164705" src="https://github.com/user-attachments/assets/42e03900-09f4-4409-a2c6-cc5207e97d7e" />
 
 ## 🚀 Tech Stack
 
@@ -150,19 +161,6 @@ omdb-movie-explorer/
     ├── index.html
     └── package.json
 ```
-
-
-## Result
-### Home, Search Bar and Favourite 
-<img width="1837" height="786" alt="Screenshot 2025-11-25 164501" src="https://github.com/user-attachments/assets/0e50d756-ed21-4e71-baa1-6e8d5cac09f8" />
-### Search Result
-<img width="1828" height="931" alt="Screenshot 2025-11-25 164545" src="https://github.com/user-attachments/assets/e58855d8-fd45-48a7-a788-2ff2cc2f7217" />
-### Single Content Result
-<img width="902" height="778" alt="Screenshot 2025-11-25 164618" src="https://github.com/user-attachments/assets/b4fd53c0-5c23-474f-aaa5-b5301979f259" />
-### Add to favourites
-<img width="1082" height="767" alt="Screenshot 2025-11-25 164645" src="https://github.com/user-attachments/assets/60558a6b-01c1-4c70-a5cd-e12717f560bc" />
-### Footer
-<img width="1895" height="425" alt="Screenshot 2025-11-25 164705" src="https://github.com/user-attachments/assets/42e03900-09f4-4409-a2c6-cc5207e97d7e" />
 
 ---
 
