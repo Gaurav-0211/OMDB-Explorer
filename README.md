@@ -5,6 +5,8 @@ A full-stack movie discovery platform built using **Spring Boot**, **React**, an
 Search for movies, explore detailed descriptions and save your favorites—all inside a clean, modern, responsive UI.
 
 ---
+### Live Deployed Link: https://cinemaexplorer-cx3n.onrender.com/
+
 ## Preview
 ### Home, Search Bar and Favourite 
 <img width="1837" height="786" alt="Screenshot 2025-11-25 164501" src="https://github.com/user-attachments/assets/0e50d756-ed21-4e71-baa1-6e8d5cac09f8" />
